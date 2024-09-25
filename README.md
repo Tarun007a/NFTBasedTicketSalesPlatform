@@ -1,4 +1,6 @@
 ##### Deployed smartcontract address: CBEAF4OE52GGHCV4R24LRH2OFBAZVFXUOXVTUXQ4W4C7VR22SV4FWVAS
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/7429a585-a4c8-4ada-949f-9bbbd36e8674">
+
 
 # NFT-based Ticket Sales Platform
 
